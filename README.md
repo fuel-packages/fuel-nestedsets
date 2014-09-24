@@ -3,6 +3,12 @@ Nested Sets
 
 Adds methods to the Fuel ORM model to work with nested tree database structures.
 
+Deprecated!
+-----------
+
+Since FuelPHP v1.6, the ORM package has built-in functionality for nested sets, this package is no longer needed!
+
+
 Introduction to nested sets
 ---------------------------
 
